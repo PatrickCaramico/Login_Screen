@@ -1,10 +1,30 @@
 # Login_Screen
 
-Projeto tela de login, desenvolvido como uma previa de um projeto em desenvolvimento, esse projeto ele contém uma imagem em animação e uma tela a direita pra fazer o acesso do usuario em um site ou sistema. Isso é um apenas um prototipo em desenvovilmente, os botões não estão funcionando ainda. 
+Login screen project developed as a preview of an ongoing project. This project includes an animated image and a screen on the right to allow user access to a website or system. It's merely a developmental prototype; the buttons are not yet functional.
 
-# Imagens do Projeto
+# Project Images
 
-Aqui estão uma imagem do projeto;
+Here's an image of the project;
 
-<img align="center" src="imagens projeto/Tela de login inicial.png" width="900px"/>
+<img align="center" src="images projeto/Tela login inicial.png" width="900px"/>
+
+# Code Snippet
+
+HTML and CSS code snippets;
+ 
+#
+HTML
+<img align="center" src="images projeto/Tela HTML.png" width="900px"/>
+
+#
+
+#
+CSS
+<img align="center" src="images projeto/Tela CSS.png" width="900px"/>
+
+#
+
+# Project Link
+**Link to access the project.**
+https://patrickcaramico.github.io/Login_Screen/
 
