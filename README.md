@@ -26,5 +26,5 @@ CSS
 
 # Project Link
 **Link to access the project.**
-https://patrickcaramico.github.io/Login_Screen/
+https://tela-login-patrickcaramico.netlify.app/
 
